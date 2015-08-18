@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<servicetype>philippine</servicetype>
+	<servertype>primary</servertype>
+	<connection>
+		<address>127.0.0.1</address>
+		<port>6901</port>
+		<version>25</version>
+		<langtype>1</langtype>
+		<registrationweb></registrationweb>
+		<yellow>
+			<admin>2000000</admin>
+			<admin>2000001</admin>
+			<admin>2000002</admin>
+			<admin>2000003</admin>
+			<admin>2000004</admin>
+			<admin>2000005</admin>
+			<admin>2000006</admin>
+			<admin>2000007</admin>
+			<admin>2000008</admin>
+			<admin>2000009</admin>
+			<admin>2000010</admin>
+		</yellow>
+		<loading>
+			<image>loading00.jpg</image>
+			<image>loading01.jpg</image>
+			<image>loading02.jpg</image>
+			<image>loading03.jpg</image>
+			<image>loading04.jpg</image>
+			<image>loading05.jpg</image>
+			<image>loading06.jpg</image>
+			<image>loading07.jpg</image>
+			<image>loading08.jpg</image>
+			<image>loading09.jpg</image>
+			<image>loading10.jpg</image>
+		</loading>
+	</connection>
+</clientinfo>
