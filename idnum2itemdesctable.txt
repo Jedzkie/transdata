@@ -2021,18 +2021,6 @@ Weapon Level :^777777 3^000000
 Required Level :^777777 33^000000
 Applicable Job :^777777 Swordman Class^000000
 #
-1161#
-Sword wielded by mighty ^333366GOD-POING^000000, the lawless heroine.
-INT + 20, LUK + 20
-Indestructible (except in upgrade attempts).
-Class :^777777 Two-handed Sword^000000
-Attack :^777777 250^000000
-Weight :^777777 100^000000
-Property :^777777 Holy^000000
-Weapon Level :^777777 4^000000
-Required Level :^777777 48^000000
-Applicable Job :^777777 Every Job^000000
-#
 1163#
 Large, double-edged broad sword that was used by the Scottish highlanders.
 Class :^777777 Two-handed Sword^000000
@@ -8009,20 +7997,6 @@ Weapon Level :^777777 3^000000
 Required Level :^777777 78^000000
 Applicable Job :^777777 Priest, Monk^000000
 #
-1530#
-A facsimile of the mighty hammer wielded by Thor, god of thunder.
-Increases Attack Speed.
-DEX + 40, STR + 15
-Impossible to refine this item.
-Indestructible.
-Class :^777777 Mace^000000
-Attack :^777777 250^000000
-Weight :^777777 600^000000
-Property :^009900 Wind^000000
-Weapon Level :^777777 4^000000
-Required Level :^777777 95^000000
-Applicable Job :^777777 Swordman Class, Merchant Class^000000
-#
 1531#
 A heavy tool with many practical applications.
 Enable a chance of randomly inflicting the ^880000Stun^000000, ^880000Blind^000000, ^880000Poison^000000 or ^880000Freeze^000000 statuses with each attack.
@@ -8044,38 +8018,6 @@ Class :^777777 Shield^000000
 Defense :^777777 3^000000
 Weight :^777777 100^000000
 Applicable Job :^777777 Mage Class, Soul Linker^000000
-#
-2410#
-Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.
-Increase Movement Speed.
-Maximum HP and SP + 20%
-SP Recovery + 15%, MDEF + 10
-Impossible to refine this item.
-Indestructible.
-Class :^777777 Footgear^000000
-Defense :^777777 5^000000
-Weight :^777777 350^000000
-Required Level :^777777 94^000000
-Applicable Job :^777777 Every Job^000000
-#
-2629#
-A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.
-STR + 40, MDEF + 7
-Class :^777777 Accessory^000000
-Defense :^777777 2^000000
-Weight :^777777 800^000000
-Required Level :^777777 94^000000
-Applicable Job :^777777 Every Job^000000
-#
-2630#
-An imitation of the necklace worn by the beautiful goddess Freya.
-STR, AGI, INT, VIT + 6
-LUK + 10, MDEF + 5
-Class :^777777 Accessory^000000
-Defense :^777777 1^000000
-Weight :^777777 150^000000
-Required Level :^777777 94^000000
-Applicable Job :^777777 Every Job^000000
 #
 5020#
 The most recognizable piece of the standard Kafra Employee uniform.
@@ -19014,26 +18956,6 @@ Defense :^777777 0^000000
 Weight :^777777 10^000000
 Required Level :^777777 48^000000
 Applicable Job :^777777 Every Job Except Novice^000000
-#
-1533#
-Any man holding the Warrior's Balmung will gather new inner strength.
-All Stats + 5
-Class :^777777 Sword^000000
-Attack :^777777 170^000000
-Weight :^777777 100^000000
-Weapon Level :^777777 4^000000
-Required Level :^777777 48^000000
-Applicable Job :^777777 Every Job^000000
-#
-13020#
-Any man holding the Warrior's Balmung will gather new inner strength.
-All Stats + 5
-Class :^777777 Sword^000000
-Attack :^777777 170^000000
-Weight :^777777 100^000000
-Weapon Level :^777777 4^000000
-Required Level :^777777 48^000000
-Applicable Job :^777777 Every Job^000000
 #
 
 //-------------------- Chinese Boxes --------------------
@@ -30183,31 +30105,6 @@ Weight :^777777 10^000000
 #
 
 //------------- WOE Second Edition --------------
-2383#
-Brynhild is one of the valiant valkyries, meaning 'The Warrior's Armor'.
-Increases MaxHP by 20 times your base level, and MaxSP by 5 times your base level.
-Increases physical damage by 10%, and increases your magic attack power by 10%.
-MDEF + 10
-The player wearing this cannot be knocked back.
-Cannot be refined, cannot be destroyed.
-Class :^777777 Armor^000000
-Defense :^777777 10^000000
-Required Level :^777777 94^000000
-Weight :^777777 40^000000
-Applicable Job :^777777 Every Job^000000
-#
-2541#
-Wings created using all the light in the world. Its name means "Light of the Gods".
-Adds resistance to ALL elements by 30%.
-FLEE + 30, MDEF + 5.
-Enables use of ^008800Level 1 Teleport^000000.
-Cannot be refined, cannot be destroyed.
-Class :^777777 Garment^000000
-Defense :^777777 5^000000
-Required Level :^777777 94^000000
-Weight :^777777 40^000000
-Applicable Job :^777777 Every Job^000000
-#
 7830#
 A clear and transparent gem that reflects light beautifully.
 ^ffffff_^000000
@@ -38385,14 +38282,14 @@ Required Level :^777777 80^000000
 Applicable Job :^777777 Every Job Except Novice^000000
 #
 12590#
-A Coin Holder filled with 10 Random Coins.
+A Coin Holder filled with 10 Random Coins use to exchange Battleground items.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
 
 // Custom
 3000#
-This Endless Tower Coin can be used to trade Battleground items in Prontera.
+This Endless Tower Coin can be used to trade Battleground items.
 ^ffffff_^000000
 Weight :^777777 0^000000
 #
