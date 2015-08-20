@@ -107,9 +107,9 @@ StateIconList[EFST_IDs.EFST_HALLUCINATIONWALK] = {
 }
 StateIconList[EFST_IDs.EFST_STORMKICK_ON] = {
 	descript = {
-		{"Whirlwind Kick (Tornado Kick)", COLOR_TITLE_BUFF},
+		{"Tornado Stance", COLOR_TITLE_BUFF},
 		{"When attacking an enemy"},
-		{"there is a chance to prepare a Whirlwind Kick"}
+		{"there is a chance to prepare a Tornado Kick"}
 	}
 }
 StateIconList[EFST_IDs.EFST_KAUPE] = {
@@ -562,9 +562,9 @@ StateIconList[EFST_IDs.EFST_ENDURE] = {
 }
 StateIconList[EFST_IDs.EFST_TURNKICK_ON] = {
 	descript = {
-		{"Ready Turn Kick", COLOR_TITLE_BUFF}, 
+		{"Roundhouse Stance", COLOR_TITLE_BUFF}, 
 		{"When attacking,"}, 
-		{"there's a chance to prepare a Turn Kick"}
+		{"there's a chance to prepare a Roundhouse"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ENCHANTPOISON] = {
@@ -592,7 +592,7 @@ StateIconList[EFST_IDs.EFST_BLESSING] = {
 }
 StateIconList[EFST_IDs.EFST_ONEHANDQUICKEN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"One-Hand Quicken", COLOR_TITLE_BUFF}, 
+		{"One Hand Quicken", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"Increases ASPD when using one-handed weapons"}
 	}
@@ -770,7 +770,7 @@ StateIconList[EFST_IDs.EFST_SATURDAY_NIGHT_FEVER] = {
 }
 StateIconList[EFST_IDs.EFST_TRUESIGHT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"True Sight", COLOR_TITLE_BUFF},
+		{"Falcon Eyes", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{"Increases all stats"},
 		{"Increases ATK, HIT, CRIT"}
@@ -886,7 +886,7 @@ StateIconList[EFST_IDs.EFST_NEUTRALBARRIER] = {
 }
 StateIconList[EFST_IDs.EFST_EARTHSCROLL] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Happy Break (Enjoyable Rest)", COLOR_TITLE_BUFF}, 
+		{"Happy Break", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"When sitting with another Taekwon"}, 
 		{"A certain amount of SP is regained"}, 
@@ -901,7 +901,7 @@ StateIconList[EFST_IDs.EFST_FALCON] = {
 }
 StateIconList[EFST_IDs.EFST_TWOHANDQUICKEN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Two-Hand Quicken", COLOR_TITLE_BUFF}, 
+		{"Two Hand Quicken", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"When using two handed weapons,"}, 
 		{"increases ASPD"}
@@ -909,7 +909,7 @@ StateIconList[EFST_IDs.EFST_TWOHANDQUICKEN] = {
 }
 StateIconList[EFST_IDs.EFST_SUN_COMFORT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Comfort of the Sun", COLOR_TITLE_BUFF}, 
+		{"Solar Protection", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"Improves VIT DEF"}
 	}
@@ -932,13 +932,6 @@ StateIconList[EFST_IDs.EFST_STR_SCROLL] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
 		{"Improves STR"}
-	}
-}
-StateIconList[EFST_IDs.EFST_AB_SECRAMENT] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Sacrament", COLOR_TITLE_BUFF}, 
-		{"%s", COLOR_TIME}, 
-		{"Reduces fixed casting time"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PARALYSE] = {
@@ -1159,16 +1152,6 @@ StateIconList[EFST_IDs.EFST_TOXIN] = {
 		{"Every 10 seconds, SP is consumed"}
 	}
 }
-StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
-	descript = {
-		{"Rising Dragon", COLOR_TITLE_BUFF}, 
-		{"Maximum Spheres Increased"}, 
-		{"Increases Maximum HP/SP"}, 
-		{"Increases Attack Speed"}, 
-		{"Maintains Fury State"}, 
-		{"Slowly Drains HP per seconds"}
-	}
-}
 StateIconList[EFST_IDs.EFST_HARMONIZE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Harmonize", COLOR_TITLE_BUFF},
@@ -1186,14 +1169,6 @@ StateIconList[EFST_IDs.EFST_FOOD_STR_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME},
 		{"Improves STR"}
-	}
-}
-StateIconList[EFST_IDs.EFST_CLOAKINGEXCEED] = {
-	descript = {
-		{"Cloaking Exceed", COLOR_TITLE_BUFF},
-		{"Hides from Insects and Demon types too."},
-		{"Remains hidden until a certain number of hits received."},
-		{"Increases Movement Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ASSUMPTIO2] = {
@@ -1269,21 +1244,12 @@ StateIconList[EFST_IDs.EFST_ANALYZE] = {
 		{"Reduces Physical and Magical Defense"}
 	}
 }
-StateIconList[EFST_IDs.EFST_GENTLETOUCH_REVITALIZE] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Gentle Touch - Revitalize", COLOR_TITLE_BUFF}, 
-		{"%s", COLOR_TIME}, 
-		{"Increases VIT, Max HP"}, 
-		{"Increases DEF"}, 
-		{"Increases natural HP Recovery"}, 
-		{"Movement speed increased"}
-	}
-}
+
 StateIconList[EFST_IDs.EFST_COUNTER_ON] = {
 	descript = {
-		{"Prepare Counter Kick", COLOR_TITLE_BUFF}, 
+		{"Counter Kick Stance", COLOR_TITLE_BUFF}, 
 		{"Hit an enemy"}, 
-		{"to be ready for a counter kick"}
+		{"to be ready for a Counter Kick"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GLORIA] = {
@@ -1325,7 +1291,7 @@ StateIconList[EFST_IDs.EFST_SWING] = {
 }
 StateIconList[EFST_IDs.EFST_MOON_COMFORT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Comfort of the Moon", COLOR_TITLE_BUFF}, 
+		{"Lunar Protection", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"Improves FLEE"}
 	}
@@ -1335,14 +1301,6 @@ StateIconList[EFST_IDs.EFST_MOONLIT_SERENADE] = {
 		{"Moonlit Serenade", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"Increases damage of magic skills"}
-	}
-}
-StateIconList[EFST_IDs.EFST_GENTLETOUCH_CHANGE] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Gentle Touch - Change", COLOR_TITLE_BUFF}, 
-		{"%s", COLOR_TIME}, 
-		{"Reduces DEF and MDEF"}, 
-		{"Increases Damage and ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {
@@ -1366,13 +1324,6 @@ StateIconList[EFST_IDs.EFST_INVISIBILITY] = {
 		{"All attacks become Ghost Lvl 1 property"}, 
 		{"Drains SP"}, 
 		{"Skills and items cannot be used"}
-	}
-}
-StateIconList[EFST_IDs.EFST_ABUNDANCE] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Rune Stone: Abundance", COLOR_TITLE_BUFF}, 
-		{"%s", COLOR_TIME}, 
-		{"Recovers SP every 10 seconds"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_BASICHIT] = {
@@ -1471,7 +1422,8 @@ StateIconList[EFST_IDs.EFST_ASPERSIO] = {
 	}
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_INFINITY] = {
-	descript = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"%s", COLOR_TIME}, 
 		{"Increases Movement Speed"}
 	}
 }
@@ -1584,7 +1536,7 @@ StateIconList[EFST_IDs.EFST_L_LIFEPOTION] = {
 }
 StateIconList[EFST_IDs.EFST_WINDWALK] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Wind Walk", COLOR_TITLE_BUFF}, 
+		{"Wind Walker", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"Increases Movement Speed/Evasion"}
 	}
@@ -1605,9 +1557,9 @@ StateIconList[EFST_IDs.EFST_STRIKING] = {
 }
 StateIconList[EFST_IDs.EFST_DOWNKICK_ON] = {
 	descript = {
-		{"Prepare Down Kick", COLOR_TITLE_BUFF}, 
+		{"Heel Drop Stance", COLOR_TITLE_BUFF}, 
 		{"Hit an enemy"}, 
-		{"for a chance to preform a kick"}
+		{"for a chance to preform a Heel Drop"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYDARK] = {

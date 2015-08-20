@@ -1720,5 +1720,5 @@ jobtbl = {
 	["JT_JP_SABIKU"] = 530,
 	["JT_JP_ARUGORU"] = 531,
 	["JT_JP_ARUNA"] = 532,
-	["JT_JP_AIRI"] = 533,	
+	["JT_JP_AIRI"] = 533,
 }
