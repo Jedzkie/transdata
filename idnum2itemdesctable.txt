@@ -38286,6 +38286,18 @@ A Coin Holder filled with 10 Random Coins use to exchange Battleground items.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
+2554#
+Made from a scale of Nidhoggur's Shadow, it still possesses its strong power.
+Mdef +3,
+Increases resistance to all elemental properties by 7%.
+MaxSP increases by (Base level / 3) + (refine level x 10).
+With 1% probablity, recovers 1% amount of given damage to SP.
+Class : ^777777Garment^000000
+Defense : ^7777775^000000
+Weight : ^77777740^000000
+Required Level : ^77777790^000000
+Applicable Job : ^777777All Transcendent Job Classes except Novice Classes^000000
+#
 
 // Custom
 3000#

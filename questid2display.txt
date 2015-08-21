@@ -15503,3 +15503,8 @@ Gather 50 Wooden Gnarls that you can get from hunting the Gibbet monsters in Nif
 70080#Food Ingredient timer#SG_FEEL#QUE_NOIMAGE#
 You must wait 23 hours before you can receive another quest from the Eden Group Chef.#
 #
+
+// Novice Academy
+20000#Your first quest!#SG_FEEL#QUE_NOIMAGE#
+Talk to the School Girl and Introduce your name to her.#
+#

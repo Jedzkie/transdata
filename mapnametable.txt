@@ -1,3 +1,14 @@
+// Novice Academy
+ac_cl_area.rsw#Novice Academy Area#
+ac_cl_hall.rsw#Novice Academy Class Hall#
+ac_cl_room.rsw#Novice Academy Room#
+ac_en_hall.rsw#Novice Academy Entrance Hall#
+ac_library.rsw#Novice Academy Library#
+ac_prac_a.rsw#Novice Academy Practice Grounds#
+ac_prac_b.rsw#Novice Academy Practice Grounds#
+ac_prac_c.rsw#Novice Academy Practice Grounds#
+ac_prac_d.rsw#Novice Academy Practice Grounds#
+
 06guild_01.rsw#Guild War Arena#
 06guild_02.rsw#Guild War Arena#
 06guild_03.rsw#Guild War Arena#

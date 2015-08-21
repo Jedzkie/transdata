@@ -1421,8 +1421,13 @@ StateIconList[EFST_IDs.EFST_ASPERSIO] = {
 		{"Enchants Weapon with Holy Property"}
 	}
 }
-StateIconList[EFST_IDs.EFST_MOVHASTE_INFINITY] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+StateIconList[EFST_IDs.EFST_MOVHASTE_INFINITY] = { -- FIXME (Client Error)
+	descript = {
+		{"Increases Movement Speed"}
+	}
+}
+StateIconList[EFST_IDs.EFST_MOVHASTE_INFINITY2] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
 		{"Increases Movement Speed"}
 	}

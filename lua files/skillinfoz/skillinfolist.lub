@@ -27,7 +27,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SM_TWOHAND] = {
 		"SM_TWOHAND";
-		SkillName = "Two-Handed Sword Mastery",
+		SkillName = "Two Handed Sword Mastery",
 		MaxLv = 10,
 		_NeedSkillList = {
 			{ SKID.SM_SWORD,1 }
@@ -553,7 +553,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KN_TWOHANDQUICKEN] = {
 		"KN_TWOHANDQUICKEN";
-		SkillName = "Two-Hand Quicken",
+		SkillName = "Two Hand Quicken",
 		MaxLv = 10,
 		SpAmount = { 14, 18, 22, 26, 30, 34, 38, 42, 46, 50 },
 		_NeedSkillList = {
@@ -933,7 +933,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_TWOHANDSWORD] = {
 		"BS_TWOHANDSWORD";
-		SkillName = "Smith Two-Handed Sword",
+		SkillName = "Smith Two Handed Sword",
 		MaxLv = 3,
 		_NeedSkillList = {
 			{ SKID.BS_SWORD,1 }
